@@ -53,6 +53,11 @@
 
 
 ## Output:
+![OUTPUT](https://github.com/Oviya24032K6/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147139999/14d05eb0-9d06-4f8a-ace9-42152cc83c09)
+![image](https://github.com/Oviya24032K6/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147139999/d68e90f2-c13b-4b11-a80f-34d85dd019d7)
+![image](https://github.com/Oviya24032K6/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147139999/aaebba6e-26fa-4d6d-bccc-db40ff2e7200)
+
+
 
 
 ### Name:OVIYA P
