@@ -55,8 +55,8 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name:OVIYA P
+### Register Number: 212223110033
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
